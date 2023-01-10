@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-###This is YIBO from china. Welcome to my world!
+### This is YIBO from china. Welcome to my world!
 
-###Please contact me:
+### Please contact me:
 
 <p>
 <a href="mailto:tungreeboo@gmail.com?subject = HiYibo&body = Message">
