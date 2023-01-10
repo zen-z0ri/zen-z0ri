@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is YIBO from china. Welcome to my world!
+###This is YIBO from china. Welcome to my world!
 
-Please contact me:
+###Please contact me:
 
 <p>
 <a href="mailto:tungreeboo@gmail.com?subject = HiYibo&body = Message">
@@ -12,6 +12,7 @@ Please contact me:
   <img align="left" alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
+
 - 🔭 I’m currently working on HengtianSigma
 - 💬 Ask me about Programming, Finance, Dream, Art...
 <!--
