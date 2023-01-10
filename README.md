@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+This is YIBO from china. Welcome to my world!
+
+Please contact me:
+<a href="mailto:tungreeboo@gmail.com?subject = HiYibo&body = Message">
+  <img align="left" alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yibo-dong-961551105">
+  <img align="left" alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+- 🔭 I’m currently working on HengtianSigma
+- 💬 Ask me about Programming, Finance, Dream, Art...
 <!--
 **zen-z0ri/zen-z0ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
