@@ -13,7 +13,7 @@
   <img align="left" alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
-<br />
+
 ---
 
 - 🔭 I’m currently working on HengtianSigma
