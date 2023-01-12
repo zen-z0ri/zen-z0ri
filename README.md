@@ -4,15 +4,14 @@
 
 ### Please contact me:
 
-
-<p>
-<a href="mailto:tungreeboo@gmail.com?subject = HiYibo&body = Message">
-  <img align="left" alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yibo-dong-961551105">
-  <img align="left" alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
+<div>
+  <a href="mailto:tungreeboo@gmail.com?subject = HiYibo&body = Message">
+    <img alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/yibo-dong-961551105">
+    <img alt="Yibo Dong" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+</div>
 
 ---
 
