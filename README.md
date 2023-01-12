@@ -3,7 +3,7 @@
 ### This is YIBO from china. Welcome to my world!
 
 ### Please contact me:
----
+
 
 <p>
 <a href="mailto:tungreeboo@gmail.com?subject = HiYibo&body = Message">
@@ -14,6 +14,7 @@
 </a>
 </p>
 <br />
+---
 
 - 🔭 I’m currently working on HengtianSigma
 - 💬 Ask me about Programming, Finance, Dream, Art...
